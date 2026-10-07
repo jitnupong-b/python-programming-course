@@ -32,3 +32,7 @@ print(student1.introduce())
 print(student1.add_course("Python Programming"))
 print(student1.add_course("Data Structures"))
 print(student1.show_courses())
+
+print(student2.introduce())
+print(student2.add_course("Math and Stat"))
+print(student2.show_courses())
